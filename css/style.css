@@ -220,6 +220,7 @@ p {
   font-size: 1.15em;
 }
 
+
 .topdiv {
   background-color: #d9d9d9;
   z-index: 1;
@@ -841,4 +842,8 @@ ul.nogap li {
 }
 .get-involved-icons {
   border-bottom: 2px solid #d6148e;
+}
+
+ul.inherit li {
+  font-size: 18px;
 }

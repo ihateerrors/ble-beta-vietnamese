@@ -847,3 +847,7 @@ ul.nogap li {
 ul.inherit li {
   font-size: 18px;
 }
+
+.lighter {
+  font-weight: 500 ;
+}

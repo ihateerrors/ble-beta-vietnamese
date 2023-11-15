@@ -851,3 +851,10 @@ ul.inherit li {
 .lighter {
   font-weight: 500 ;
 }
+
+.accordion:not(:last-of-type) {
+  border-bottom: none;
+}
+.accordion:last-of-type {
+  padding-bottom: 1em;
+}
